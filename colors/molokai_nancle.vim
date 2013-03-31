@@ -104,7 +104,7 @@ hi Type            guifg=#66D9EF               gui=none
 hi Underlined      guifg=#808080               gui=underline
 
 "-----Nancle modified this line----
-hi VertSplit       guifg=#232526 guibg=#232526 gui=bold
+hi VertSplit       guifg=#080808 guibg=#080808 gui=bold
 "-----Nancle modified this line----
 "
 hi VisualNOS                     guibg=#403D3D
